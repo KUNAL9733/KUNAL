@@ -1,8 +1,31 @@
-# KUNAL
-<h1 align="center">Hi 👋, I'm Kunal</h1>
-<h3 align="center">A passionate Dev ops  from India</h3>
+ ## 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I'm a developer interested in software development, cloud technologies, and DevOps.
+
+### 💡 Skills
+
+* HTML, CSS
+* Java, Python
+
+### 🔧 Tools
+
+* Git & GitHub
+* Git Bash
+* Linux Bash Terminal
+* VS Code
+
+### ☁️ Exploring
+
+* Cloud Computing
+* DevOps Fundamentals
+* CI/CD
+* Linux Administration
+* Automation
+
+### 📖 Learning
+
+* DSA
+* Backend Development
+* Open Source Contributions
+
+🚀 Always learning and building new things.
